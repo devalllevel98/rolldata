@@ -1,5 +1,5 @@
 
 {
-access: "0",
-url: "https://google.com"
+"access": "0",
+"url": "https://google.com"
 }
